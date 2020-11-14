@@ -5,7 +5,7 @@
 操作系统课程实验 (OS Kernel Labs)
 
 # Stargazers over time
-[![Stargazers over time](https://starchart.cc/isArtJay/OS-Lebs.svg)](https://starchart.cc/isArtJay/OS-Lebs)
+[![Stargazers over time](https://starchart.cc/isArtJay/OS-Labs.svg)](https://starchart.cc/isArtJay/OS-Labs)
 
 # LICENSE
 
