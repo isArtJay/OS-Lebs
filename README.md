@@ -1,8 +1,12 @@
 ![OS-Labs](https://socialify.git.ci/isArtJay/OS-Labs/image?description=1&forks=1&issues=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FisArtJay%2FOS-Labs%2Fmain%2FNon-primary%2520resources%2Flogo.png&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
+
+
+[TOC]
+
 # 起源
 
-我们大三开设了操作系统原理专业课程，主要偏基础理论教学。因为我想更深入的学习这门课，就在老师讲课本的同时，又去看了**哈工大李治军老师的《操作系统》公开课程**和**北大陈向群老师的《操作系统原理》基础课程**，同时以**《计算机操作系统（第四版）—汤小丹》**为辅导教材。这样能保证有非常扎实的基础知识。
+我们大三开设了操作系统原理专业课程，主要偏基础理论教学。因为我想更深入的学习这门课，就在老师讲课本的同时，又去看了**哈工大李治军老师的《操作系统》公开课程**和**北大陈向群老师的《操作系统原理》基础课程**，同时也会以**《计算机操作系统（第四版）—汤小丹》**为辅导教材。这样能保证有非常扎实的基础知识。
 
 理论学好了，就要有实践。我就在想：“有没有一些简单的实验可以让我把之前学的理论知识给串联、实践并运用起来”，然后我带着这个思考多次 Google、Baidu ，一头扎进了搜索引擎的大海中，各种 Link 支配着我的鼠标，到最后也是不得而终。
 
@@ -35,4 +39,4 @@ OS-Labs 是一系列关于操作系统的课程实验
 
 [MIT](https://github.com/isArtJay/OS-Lebs/blob/main/LICENSE)
 
-Copyright (c) 2020-present, Yujie
+Copyright (c) 2020-present, [Yujie](https://lien.run/)
